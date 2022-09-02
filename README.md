@@ -5,8 +5,6 @@
 **Java and IOT** - 👯 I’m looking to collaborate on **on React,ReactNative,Nodejs and Django related projects**
 
 <h3 align="left">Languages,Frameworks and Tools:</h3>
-<p align="left">
-
 
 <table>
   <tbody>
