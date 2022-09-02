@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taiwo</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A Fullstack developer(Frontend Heavy) from Nigeria</h3>
 
 - 🔭 I’m currently working on **Fullstack projects using React, ReactNative,Vue , Nodejs and Django**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
 <br/>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
