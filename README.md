@@ -38,6 +38,96 @@
 <br/> 
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp; </p>
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+          <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+            width="36"
+            height="36"
+            alt="JavaScript"
+            style="max-width: 100%"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://redux.js.org/" rel="nofollow">
+          <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go.svg"
+            width="36"
+            height="36"
+            alt="Redux"
+            style="max-width: 100%"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow">
+          <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+            width="36"
+            height="36"
+            alt="CSS3"
+            style="max-width: 100%"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://nodejs.org/en/" rel="nofollow">
+          <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+            width="36"
+            height="36"
+            alt="NodeJS"
+            style="max-width: 100%"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://expressjs.com/" rel="nofollow">
+          <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg"
+            width="36"
+            height="36"
+            alt="Express"
+            style="max-width: 100%"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.mongodb.com/" rel="nofollow">
+          <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+            width="36"
+            height="36"
+            alt="MongoDB"
+            style="max-width: 100%"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.heroku.com/" rel="nofollow">
+          <img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg"
+            width="36"
+            height="36"
+            alt="Heroku"
+            style="max-width: 100%"
+          />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bamgboyeteee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bamgboyeteee" height="30" width="40" /></a>
