@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taiwo</h1>
 <h3 align="center">A Fullstack developer(Frontend Heavy) from Nigeria</h3>
 
-- 🔭 I’m currently working on **Fullstack projects using React, ReactNative,Vue , Nodejs and Django** - 🌱 I’m currently learning
+- 🔭 I’m currently working on **Fullstack projects using React, ReactNative, Vue, Nodejs and Django** 
+- 🌱 I’m currently learning
 **Java and IOT** - 👯 I’m looking to collaborate on **on React,ReactNative,Nodejs and Django related projects**
 
 <h3 align="left">Languages,Frameworks and Tools:</h3>
