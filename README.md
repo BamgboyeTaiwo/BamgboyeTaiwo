@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, Hi there! I’m Taiwo Bamgboye</h1>
+<h1 align="center">👋, Hi there! I’m Taiwo Bamgboye</h1>
 <h3 align="center">Senior Full Stack Engineer** passionate about building scalable, high-performance applications across web and mobile platforms.</h3>
-
-- 🔭 I’m currently working on **Fullstack projects using React, ReactNative,Vue , Node/Express, Nestjs, Java and Django** - 🌱 I’m currently learning
-**Devops and .Net** - 👯 I’m looking to collaborate **on React,ReactNative,Nodejs, Nestjs, Java and Django related projects**
 
 ## 🔭 Tech I'm Working With
 
 **Frontend**  
-React · React Native · Vue · Next.js · Nuxt.js
+React · Next.js · React Native · Vue · Nuxt.js · Angular
 
 **Backend**  
 Node.js (Express & NestJS) · Django · Golang · Java · .NET
@@ -21,10 +18,9 @@ Docker · Kubernetes · AWS · CI/CD Pipelines · GitHub Actions
 ---
 
 ## 🌱 Currently Exploring
-
+- Practical applications of **AI/ML** in full-stack systems and Electrical Systems
 - Advanced DevOps & .NET development  
 - Cloud-native architectures and infrastructure-as-code  
-- Practical applications of **AI/ML** in full-stack systems
 
 ---
 
@@ -47,8 +43,7 @@ Projects involving:
 
 ## ⚡ A Few Fun Bits
 
-- I debug better with jazz in the background 🎷  
-- 🏆 Google I/O Hackathon Winner  
+- I debug better with Amapiano in the background 🎷  
 - I love turning ideas into polished products (sometimes with a bit of no-code magic via **Bubble.io** or **WordPress**)
 
 ---
