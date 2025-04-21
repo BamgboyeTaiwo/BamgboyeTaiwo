@@ -1,8 +1,57 @@
-<h1 align="center">Hi 👋, I'm Taiwo</h1>
-<h3 align="center">A Fullstack developer(Frontend Heavy) from Nigeria</h3>
+<h1 align="center">Hi 👋, Hi there! I’m Taiwo Bamgboye</h1>
+<h3 align="center">Senior Full Stack Engineer** passionate about building scalable, high-performance applications across web and mobile platforms.</h3>
 
 - 🔭 I’m currently working on **Fullstack projects using React, ReactNative,Vue , Node/Express, Nestjs, Java and Django** - 🌱 I’m currently learning
 **Devops and .Net** - 👯 I’m looking to collaborate **on React,ReactNative,Nodejs, Nestjs, Java and Django related projects**
+
+## 🔭 Tech I'm Working With
+
+**Frontend**  
+React · React Native · Vue · Next.js · Nuxt.js
+
+**Backend**  
+Node.js (Express & NestJS) · Django · Golang · Java · .NET
+
+**Databases**  
+PostgreSQL · MongoDB · Firebase · Supabase
+
+**Infra & DevOps**  
+Docker · Kubernetes · AWS · CI/CD Pipelines · GitHub Actions
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced DevOps & .NET development  
+- Cloud-native architectures and infrastructure-as-code  
+- Practical applications of **AI/ML** in full-stack systems
+
+---
+
+## 👯 Open to Collaborate On
+
+Projects involving:
+- **React**, **React Native**, **NestJS**, **Node.js**
+- **Django**, **Java**, or **AI/ML**
+- Systems focused on performance, architecture, or cross-platform dev
+
+---
+
+## 🧠 I Care About
+
+- Writing clean, scalable, and maintainable codebases  
+- Architecting production-ready, resilient systems  
+- Delivering performant, user-centered experiences
+
+---
+
+## ⚡ A Few Fun Bits
+
+- I debug better with jazz in the background 🎷  
+- 🏆 Google I/O Hackathon Winner  
+- I love turning ideas into polished products (sometimes with a bit of no-code magic via **Bubble.io** or **WordPress**)
+
+---
 
 <h3 dir="auto"><a id="user-content-support-me" class="anchor" aria-hidden="true" href="#support-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Languages,Frameworks and Tools:</h3>
 <table>
